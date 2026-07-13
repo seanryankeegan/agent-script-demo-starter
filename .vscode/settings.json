@@ -4,5 +4,10 @@
     "**/bower_components": true,
     "**/.sf": true,
     "**/.sfdx": true
+  },
+  "terminal.integrated.env.osx": {
+    "AI_AGENT": null,
+    "CLAUDECODE": null,
+    "CLAUDE_CODE": null
   }
 }

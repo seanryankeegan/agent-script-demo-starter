@@ -42,6 +42,12 @@ $RECYCLE.BIN/
 # Local environment variables
 .env
 
+# Coding agent skills — reinstalled live via `npx skills add forcedotcom/sf-skills`
+# on every take so that step stays genuine on camera. Never commit to main.
+.agents/
+.claude/
+skills-lock.json
+
 # Python Salesforce Functions
 **/__pycache__/
 **/.venv/
